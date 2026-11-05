@@ -1,0 +1,8 @@
+{
+  "name": "Touchline Coach",
+  "description": "High-performance mobile football coaching application for scheduling, live timing, squad availability, benchmarks, and match tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

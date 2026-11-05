@@ -1,0 +1,4 @@
+Player_ID,Name,Team,Position,Date,Session_Type,Activity,Result,Unit,Target_Benchmark,Benchmark_Delta,Session_Notes
+"p-301","Jamal Musiala","U16 Academy",W,2026-11-01,Training,"10m Acceleration Sprint",1.67,seconds,1.71,-0.04,"Speed session"
+"p-302","Florian Wirtz","U16 Academy",CM,2026-11-01,Training,"10m Acceleration Sprint",1.72,seconds,1.80,-0.08,"Speed session"
+"p-303","Arda Guler","U16 Academy",W,2026-11-02,Match,"Tactical Awareness & Decision Making",8.8,rating_10,7.0,+1.80,"Cup Quarter Final"
